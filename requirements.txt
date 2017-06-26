@@ -1,0 +1,7 @@
+Django==1.11.2
+Pillow==4.1.1
+argparse==1.2.1
+distribute==0.6.24
+olefile==0.44
+pytz==2017.2
+wsgiref==0.1.2
